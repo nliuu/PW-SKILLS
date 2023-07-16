@@ -1,0 +1,2 @@
+# PW-SKILLS
+Assignments only
